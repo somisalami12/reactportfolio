@@ -1,0 +1,16 @@
+.services {
+    background-color: greenyellow;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    text-align: center;
+    
+}
+.services h3 {
+    font-size: 35px;
+    text-transform: uppercase;
+    color: white;
+}
+
+.services h2 {
+    font-size: 25px;
+}
